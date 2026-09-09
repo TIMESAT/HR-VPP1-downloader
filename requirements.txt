@@ -1,0 +1,4 @@
+# Official WEkEO Harmonized Data Access client.
+# It brings in `requests` and `tqdm` (used for the download progress bar),
+# so they are not listed separately.
+hda>=2.40
